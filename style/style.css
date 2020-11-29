@@ -79,7 +79,7 @@ nav li:last-child {
 /* MAIN */
 
 .hero {
-  background-image: url("./images/bg_01.jpg");
+  background-image: url("../images/bg_01.jpg");
   background-color: linear-gradient(
     0deg,
     rgba(0, 0, 0, 0.2),
